@@ -1,0 +1,60 @@
+body {
+  box-sizing: content-box;
+  margin: 50px;
+  margin-left: 200px;
+  margin-right: 200px;
+  font-family: Arial, sans-serif;
+  line-height: 1.5;
+  background-color: rgba(124, 71, 20, 0.542);
+  padding: 10px;
+}
+
+.contentbox{
+    background-color: white;
+    padding:30px;
+}
+
+.valikko {
+  display: flex;
+  gap: 25px;
+  align-items: center;
+  justify-content: center;
+  background-color: gainsboro;
+}
+
+.logo {
+  margin-right: auto;
+  padding: 1px;
+  width: 75px;
+  background-color: gray;
+}
+
+.textbox{
+    margin-right: 100px;
+}
+
+a{
+    color: inherit;
+    text-decoration: inherit;
+}
+
+h1 {
+    font-size: 50px;
+    display: flex;
+    justify-content: center;
+    align-self: center;
+}
+
+.kuva{
+    display: flex;
+    justify-content: flex-end;
+    align-self: center;
+    margin: auto;
+    width: 900px;
+    border-radius: 5%;
+}
+
+p{
+    font: arial
+
+}
