@@ -5,13 +5,14 @@ body {
   margin-right: 200px;
   font-family: Arial, sans-serif;
   line-height: 1.5;
-  background-color: rgba(124, 71, 20, 0.542);
+  background-color: rgba(215, 171, 129, 0.542);
   padding: 10px;
 }
 
 .contentbox{
     background-color: white;
     padding:30px;
+    border-radius: 5%;
 }
 
 .valikko {
@@ -27,6 +28,7 @@ body {
   padding: 1px;
   width: 75px;
   background-color: gray;
+  border-radius: 5%;
 }
 
 .textbox{
@@ -57,4 +59,29 @@ h1 {
 p{
     font: arial
 
+}
+
+.contact_otsikko{
+    font-size: 30px;
+    display: flexbox;
+    justify-content: left;
+}
+
+.teksti{
+    display: flexbox;
+    justify-content: flex-start;
+}
+
+.kartta{
+    display: flex;
+    justify-self: right;
+    width: 500px;
+    border-radius: 5%;
+}
+
+.x{
+  display: flex;
+  gap: 250px;
+  align-items: center;
+  justify-content: center;
 }
