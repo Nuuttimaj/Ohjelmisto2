@@ -3,9 +3,11 @@
 **Nuutti Majoinen**
 
 ## Moduuli 1 ja 2
+https://users.metropolia.fi/~nuuttima/mod1_ja_2/
 Tehdyt tehtävät:
 1. 1p
 2. 2p
 3. 3p
 4. 3p
 5. 3p
+**Yhteensä** 12p
